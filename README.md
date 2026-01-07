@@ -1,5 +1,8 @@
 # Proyecto-Final-Recursos-Humanos
 
+-Nombre de la aplicación:
+*TEAMCORE*
+
 Participantes en el proyecto:
 ·Yessica
 ·Sergio
